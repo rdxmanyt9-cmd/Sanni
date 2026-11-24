@@ -1,0 +1,6 @@
+{
+  "name": "Marco",
+  "description": "Marco AI Assistant — Male Personal Edition for Sanni Kumar, featuring real-time Gemini Live voice interaction, wake-word detection, and native Android device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

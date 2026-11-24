@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marco</string>
+    <string name="notification_listener_label">Marco Notification Reader</string>
+    <string name="fg_channel_name">Marco Voice Service</string>
+    <string name="fg_channel_description">Keeps Marco ready for Hey Marco wake-word and live voice sessions</string>
+    <string name="missing_permission_marco_speech">Bro Sanni, ek permission enable kar de. Uske baad dekh, main kya-kya kar sakta hoon!</string>
+    <string name="marco_intro_line">Hey Sanni! Main Marco hoon, tera personal AI assistant aur partner-in-crime. Bol bhai, aaj kya karna hai?</string>
+    <string name="about_assistant_name">Marco</string>
+    <string name="about_assistant_gender">Male</string>
+    <string name="about_developer_name">Sanni Kumar</string>
+    <string name="about_version">1.0</string>
+</resources>
